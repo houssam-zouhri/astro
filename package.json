@@ -1,0 +1,49 @@
+{
+  
+"name": "monportfolio",
+  
+"type": "module",
+  
+"version": "0.0.1",
+  
+"homepage": "https://houssam-zouhri.github.io/portfoliohz",
+  
+"scripts": {
+  
+  
+"dev": "astro dev",
+  
+  
+"build": "astro build",
+  
+  
+"preview": "astro preview",
+  
+  
+"deploy": "gh-pages -d dist",
+  
+  
+"astro": "astro"
+  
+},
+  
+"dependencies": {
+  
+  
+"@fortawesome/free-solid-svg-icons": "^6.7.2",
+  
+  
+"@fortawesome/react-fontawesome": "^0.2.2",
+  
+  
+"astro": "^5.4.2"
+  
+},
+  
+"devDependencies": {
+  
+  
+"gh-pages": "^6.3.0"
+  
+}
+}
